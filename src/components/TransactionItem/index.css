@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.histroy_list_container {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin-left: 0px;
+}
+
+.title_amount_type_paragraph {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #7e858e;
+}
+
+.delete_button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-top: 9px;
+}
+
+.delete_image {
+  height: 20px;
+}

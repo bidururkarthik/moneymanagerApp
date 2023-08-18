@@ -1,0 +1,117 @@
+/* Write your CSS here */
+.moneymanagercontainer {
+  margin: 0px;
+  padding: 20px;
+}
+
+.userwishcontainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 10px;
+  background-size: cover;
+  border-radius: 5px;
+  margin: 30px;
+}
+
+.user_wishes {
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.highlight_wishes {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #0b69ff;
+}
+
+.form_container {
+  background-color: transparent;
+  height: fit-content;
+  width: fit-content;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #aeb7c5;
+  padding: 12px;
+  padding-right: 100px;
+}
+
+.histroy_money_container {
+  background-color: transparent;
+  height: fit-content;
+  width: fit-content;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #aeb7c5;
+  padding: 12px;
+  padding-right: 100px;
+}
+
+.form_heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+}
+
+.histroy_money_heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+}
+
+.histroy_paragraph {
+  font-family: 'Roboto';
+  font-weight: 490;
+  color: #475569;
+  margin-right: 70px;
+}
+
+.histroy_title_amount_type_container {
+  background-color: transparent;
+  height: fit-content;
+  width: fit-content;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #aeb7c5;
+  padding: 3px;
+  padding-left: 37px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.labeltext {
+  font-family: 'Roboto';
+  font-weight: 500px;
+  font-size: 14px;
+  color: #475569;
+}
+
+.userinput {
+  margin-bottom: 10px;
+  padding: 6px;
+}
+
+.addbutton {
+  background-color: #0b69ff;
+  border-width: 0px;
+  color: white;
+  font-family: 'roboto';
+  padding: 8px;
+  border-radius: 4px;
+  margin-top: 4px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.typeamount {
+  width: 170px;
+  margin-bottom: 10px;
+  padding: 6px;
+}
+
+.money_add_container {
+  margin: 25px;
+  display: flex;
+  justify-content: space-between;
+}

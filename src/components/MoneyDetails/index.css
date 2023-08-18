@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.moneydetaile_container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.Balance_container {
+  background-color: #bddc91;
+  border-radius: 13px;
+  border-width: 2px;
+  border-color: #84cc16;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  justify-content: space-around;
+  padding: 14px;
+  width: 290px;
+}
+
+.income_container {
+  background-color: #cffafe;
+  border-radius: 13px;
+  border-width: 2px;
+  border-color: #06b6d4;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  justify-content: space-around;
+  padding: 14px;
+  width: 290px;
+}
+
+.expense_container {
+  background-color: #c1a5f3;
+  border-radius: 13px;
+  border-width: 2px;
+  border-color: #7c3aed;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  justify-content: space-around;
+  padding: 14px;
+  width: 290px;
+}
+
+.balanceimage {
+  height: 41px;
+  margin-right: 10px;
+  margin-top: 11px;
+}
+
+.your_Balance_paragraph {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+}
